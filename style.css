@@ -91,9 +91,9 @@ footer {
   width: 600px;
 }
 
-footer div div {
-  text-align: left;
-  margin-top: 0;
+footer div div p {
+  text-align: center;
+  margin-top: 60px;
 }
 
 
